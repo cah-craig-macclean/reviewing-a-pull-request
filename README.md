@@ -23,3 +23,5 @@ To play the game:
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris)
+
+New.
